@@ -1,10 +1,45 @@
-# ¡Hola! 👋 Soy Wilmer
+# 👋 ¡Hola! Soy Wilmer
 
-Soy desarrollador web apasionado por Laravel, Flutter y React. Actualmente trabajo en un sistema de asistencia inteligente. 🚀
+**Desarrollador Full Stack** especializado en crear soluciones tecnológicas innovadoras y escalables.
 
-## 🛠 Tecnologías que uso
-- Laravel
-- Flutter
-- MySQL
-- Tailwind / Bootstrap
-- Alpine.js
+## 🚀 Sobre mí
+
+Apasionado por transformar ideas en código funcional, actualmente desarrollo sistemas de asistencia inteligente que optimizan procesos y mejoran la experiencia del usuario. Me enfoco en escribir código limpio, mantenible y en implementar las mejores prácticas de desarrollo.
+
+## 🛠️ Stack Tecnológico
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC34A?style=for-the-badge&logo=alpine.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 💼 Proyecto Actual
+
+🔧 **Sistema de Asistencia Inteligente**
+- Desarrollo de soluciones automatizadas para optimizar flujos de trabajo
+- Implementación de interfaces intuitivas y responsivas
+- Arquitectura escalable con Laravel y Flutter
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical)
+
+## 🌱 Siempre aprendiendo
+
+Me mantengo actualizado con las últimas tendencias en desarrollo web y móvil, explorando nuevas tecnologías y mejorando continuamente mis habilidades.
+
+## 📫 ¡Conectemos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
+
+---
+⭐ *"El código es poesía escrita para que las máquinas la entiendan y los humanos la mantengan"*
