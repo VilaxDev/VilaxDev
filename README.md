@@ -36,11 +36,5 @@ Apasionado por transformar ideas en código funcional, actualmente desarrollo si
 ## 🌱 Siempre aprendiendo
 
 Me mantengo actualizado con las últimas tendencias en desarrollo web y móvil, explorando nuevas tecnologías y mejorando continuamente mis habilidades.
-
-## 📫 ¡Conectemos!
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vilax.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-vilax.netlify.app/)
-
 ---
 ⭐ *"El código es poesía escrita para que las máquinas la entiendan y los humanos la mantengan"*
