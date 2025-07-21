@@ -27,9 +27,9 @@ Apasionado por transformar ideas en código funcional, actualmente desarrollo si
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=VilaxDev&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VilaxDev&layout=compact&theme=radical)
 
 ## 🌱 Siempre aprendiendo
 
