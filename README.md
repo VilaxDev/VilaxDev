@@ -20,13 +20,6 @@ Apasionado por transformar ideas en código funcional, actualmente desarrollo si
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC34A?style=for-the-badge&logo=alpine.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 💼 Proyecto Actual
-
-🔧 **Sistema de Asistencia Inteligente**
-- Desarrollo de soluciones automatizadas para optimizar flujos de trabajo
-- Implementación de interfaces intuitivas y responsivas
-- Arquitectura escalable con Laravel y Flutter
-
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=VilaxDev&show_icons=true&theme=radical)
